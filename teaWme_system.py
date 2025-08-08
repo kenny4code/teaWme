@@ -67,16 +67,16 @@ add_order()
 
 print("------------------ORDER BILL-------------------")
 bill = {
-        "-Name-:": name,
-        "-Date-:": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "-Drink-:": tea_choice1_word,
-        "-Notes-:": {
-            "Topping:": topping_choice1_word,
-            "Size:": size_choose
+        "-Name-": name,
+        "-Date-": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "-Drink-": tea_choice1_word,
+        "-Notes-": {
+            "Topping": topping_choice1_word,
+            "Size": size_choose
         },
-        "-Total price-:": f"{tea_choice1_price + topping_choice1_price} VND",
-        "-VAT-:": "5%",
-        "FINAL PRICE:": f"{(tea_choice1_price + topping_choice1_price) * 1.05} VND"
+        "-Total price-": f"{tea_choice1_price + topping_choice1_price} VND",
+        "-VAT-": "5%",
+        "FINAL PRICE": f"{(tea_choice1_price + topping_choice1_price) * 1.05} VND"
 }
 for key, value in bill.items():
         print(f"{key}. {value}")
