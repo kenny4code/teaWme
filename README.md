@@ -1,1 +1,7 @@
-# teaWme
+Welcome to TeaWme 🧋💖 — where every sip is basically a hug in a cup 🤗☕. We’re not just about drinks, we’re about good vibes only ✨. From the creamy swirl of milk tea 🥛 to the chewy goodness of toppings 🫧, everything here is made fresh & with a sprinkle of love 💕.
+
+Craving the OG milk tea? 🫖 We got you. Feeling adventurous with Thai green tea 💚 or brown sugar pearls 🍯? Say less. Wanna go fruity 🍓🍋? We’re already blending it for you.
+
+Whether you’re chilling with your besties 👯, pulling an aesthetic study session 📚, or just treating yourself because you’re iconic 💅 — TeaWme is your happy place.
+
+Life’s too short for bad tea. So come through, grab your cup, and let happiness flow ✨🧋💫.
